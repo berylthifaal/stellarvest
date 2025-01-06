@@ -1,6 +1,6 @@
 This project is to complete final project for Object Oriented Analysis and Design course for lab class
 
-#Stellarvest
+# Stellarvest
 
 StellarFest is an innovative web platform designed to revolutionize event management. 
 This all-in-one solution empowers event organizers to effortlessly plan, manage, and execute events of any scale. 
