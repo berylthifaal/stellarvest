@@ -11,4 +11,8 @@ By centralizing all event-related tasks and communications, StellarFest simplifi
 For using this app, you should run it on eclipse with javaFX library and java connector mySQL.
 Using XAMPP for the database connection. You can import the sql file from the folder.
 
-Below is for the preview for each role
+Below is for the preview
+
+![Screenshot 2025-01-07 142344](https://github.com/user-attachments/assets/b8ceb5f8-7d08-4f01-a3ec-ea1913ec52c2)
+
+![Screenshot 2025-01-07 142432](https://github.com/user-attachments/assets/018a9ab1-8b0a-445a-8fb5-3b424c30441c)
